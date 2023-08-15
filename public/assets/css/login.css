@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/** Login **/
+
+.body-login
+{
+    background-image: url('https://i.pinimg.com/originals/bf/29/c9/bf29c912671385908a1e5ffd85e1e096.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 110%;
+}
+
+.container6 {
+    margin-top: 3%;
+  }
+
+  .container6 .square2 {
+    background-color: #ffffff;
+    width: 450px;
+    height: 700px;
+    margin-top: 0%;
+    margin-left: 30%;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  }
+
+  .container6 .square2 h4{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 3%;
+    padding-bottom: 5%;
+  }
+
+  .form-login {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10%;
+  }
+
+  .form-login img{
+    width: 100px;
+    position: absolute;
+    margin-top: -26%;
+    margin-left: 9.5%;
+  }
+
+  .form-login .email{
+    margin-left: 17%;
+    margin-bottom: 5%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .form-login .password{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .container6 #input_val {
+    height: 32px;
+    width: 140px;
+    font-size: 22px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .form-login #btn-sbmt {
+    margin-top: 3%;
+    margin-left: 16%;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    background-color: #4277A0;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight:lighter;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  }
+
+  .form-login a {
+    padding-top: 2.5%;
+    text-align: center;
+    text-decoration: none;
+
+  }
+
+  .form-login #operation {
+    font-size: 22px;
+    color: #282d32;
+  }
+
+  .form-login #daftar-akun {
+    margin-top: 6%;
+    margin-left: 0%;
+    font-size: 15px;
+  }
+
+  .links {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .square2 img {
+    width: 100px;
+    margin-left: 39%;
+    margin-top: 5%;
+  }
+

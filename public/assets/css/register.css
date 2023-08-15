@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/** Register **/
+
+.body-register {
+    background-image: url('https://i.pinimg.com/originals/bf/29/c9/bf29c912671385908a1e5ffd85e1e096.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 110%;
+  }
+
+.container7 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+
+  .container7 .square3 {
+    background-color: #ffffff;
+    width: 550px;
+    height: 1200px;
+    margin-top: 0%;
+    margin-left: 25%;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  }
+
+  .container7 .square3 img{
+    width: 100px;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 16.5%;
+
+  }
+
+  .container7 .square3 h4{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 22%;
+    padding-bottom: 5%;
+  }
+
+  .form-register {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10%;
+  }
+
+  .form-register .nama{
+    margin-left: 16%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .form-register .email{
+    margin-left: 17%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .form-register #jenis{
+    margin-left: 17.5%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 20px;
+  }
+
+  .form-register .alamat{
+    margin-left: 14%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .form-register .telp{
+    margin-left: 13%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+
+  .form-register .password{
+    margin-left: 10%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .form-register .konfirmasi-password{
+    margin-left: 10%;
+    margin-bottom: 2%;
+    width: 60%;
+    border-radius: 30px;
+  }
+
+  .container7 #input_val {
+    height: 32px;
+    width: 140px;
+    font-size: 22px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .btn-register{
+    margin-top: 3%;
+    margin-left: -8%;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    background-color: #4277A0;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 30px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  }
+
+  .form-register #operation {
+    font-size: 22px;
+    color: #282d32;
+  }
+
+  .form-register #daftar-akun {
+    margin-top: 6%;
+    margin-left: 0%;
+    font-size: 15px;
+  }
+
+  .square3 img {
+    width: 100px;
+    margin-left: 39%;
+    margin-top: 5%;
+  }
